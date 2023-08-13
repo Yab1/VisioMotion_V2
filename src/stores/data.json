@@ -1,0 +1,187 @@
+{
+  "titles": [
+    "I'm a Front-End Developer",
+    "I'm a Creative Web Designer",
+    "I'm an Aspiring Software Engineer",
+    "I'm a JavaScript Lover",
+    "I'm an Enthusiastic UI/UX Designer",
+    "I'm a CSS Magician"
+  ],
+  "socials": [
+    {
+      "id": 1,
+      "platform": "Telegram",
+      "url": "https://t.me/CasperWasTaken"
+    },
+    {
+      "id": 2,
+      "platform": "Linkedin",
+      "url": "https://www.linkedin.com/in/yeabsera-lisanework-7570981ba/"
+    },
+    {
+      "id": 3,
+      "platform": "Github",
+      "url": "https://github.com/Yab1"
+    },
+    {
+      "id": 4,
+      "platform": "Pinterest",
+      "url": "https://www.pinterest.com/Afro_Habesha/"
+    }
+  ],
+  "services": [
+    {
+      "id": 1,
+      "title": "Web Design and Development",
+      "description": "I create visually appealing and functional websites with seamless user interactions, focusing on responsive layouts and intuitive designs for your target audience.",
+      "skillLevel": "75%"
+    },
+    {
+      "id": 2,
+      "title": "User Interface (UI) Development",
+      "description": "I transform design mockups into engaging and accessible user interfaces using HTML, CSS, and JavaScript, ensuring a seamless user experience.",
+      "skillLevel": "80%"
+    },
+    {
+      "id": 3,
+      "title": "Performance Optimization",
+      "description": "I specialize in optimizing websites for speed and performance, guaranteeing faster load times and an enhanced user experience that leaves a lasting impression.",
+      "skillLevel": "50%"
+    }
+  ],
+  "statistics": [
+    {
+      "name": "Projects Completed",
+      "count": 10,
+      "icon": "HandThumbsUp"
+    },
+    {
+      "name": "Years Of Experience",
+      "count": 3,
+      "icon": "Calendar"
+    },
+    {
+      "name": "Satisfied Clients",
+      "count": 5,
+      "icon": "People"
+    },
+    {
+      "name": "Nominees Winner",
+      "count": 5,
+      "icon": "Trophy"
+    }
+  ],
+  "projects": [
+    {
+      "id": 0,
+      "name": "Quizzical",
+      "languages": ["React", "Tailwind"],
+      "url": "https://quizzical-psi-one.vercel.app/",
+      "img": "https://github.com/Yab1/Quizzical/blob/main/src/assets/screenshot3.png",
+      "priority": "high"
+    },
+    {
+      "id": 1,
+      "name": "Simple Notes",
+      "languages": ["React", "MUI"],
+      "url": "https://simple-notes-omega.vercel.app/",
+      "img": "",
+      "priority": "high"
+    },
+    {
+      "id": 2,
+      "name": "TechVisions",
+      "languages": ["React", "Tailwind", "Flamer Motion"],
+      "url": "tech-visions-nbvbxch8m-yab1.vercel.app",
+      "img": "",
+      "priority": "high"
+    },
+    {
+      "id": 3,
+      "name": "VisioMotion",
+      "languages": ["React", "Tailwind", "BootStrap"],
+      "url": "visio-motion-gtst5xj8d-yab1.vercel.app",
+      "img": "",
+      "priority": "high"
+    },
+    {
+      "id": 4,
+      "name": "WayFinder Plus",
+      "languages": ["React", "Firebase", "MUI"],
+      "url": "wayfinder-plus-o3b5qr2jc-yab1.vercel.app",
+      "img": "",
+      "priority": ""
+    },
+    {
+      "id": 5,
+      "name": "WayFinder Admin",
+      "languages": ["React", "Firebase", "MUI"],
+      "url": "",
+      "img": "",
+      "priority": ""
+    },
+    {
+      "id": 6,
+      "name": "WayFinder VR",
+      "languages": ["JavaScript", "SCSS"],
+      "url": "",
+      "img": ""
+    },
+    {
+      "id": 7,
+      "name": "E Cart",
+      "languages": ["React", "MUI"],
+      "url": "",
+      "img": ""
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Behailu Fantahun",
+      "designation": "Territory Sales Manager",
+      "testimonialText": "I am truly impressed by your dedication and expertise in web development. Your creative approach and attention to detail have been a valuable asset to our projects.",
+      "image": "https://media.licdn.com/dms/image/C4E03AQEDMOG4nOjNbw/profile-displayphoto-shrink_800_800/0/1655707309127?e=1697673600&v=beta&t=XhalxUt11da0QA5ST4shpgeLASJPKZULCE7QaE9QE2o"
+    },
+    {
+      "id": 2,
+      "name": "Nigist Fantahun",
+      "designation": "CSO, Nib International Bank",
+      "testimonialText": "I'm incredibly impressed with your ability to understand complex requirements and translate them into user-friendly solutions. Your dedication to excellence is evident in every project.",
+      "image": "https://media.licdn.com/dms/image/C5603AQEykYSblaQEqw/profile-displayphoto-shrink_800_800/0/1661366493758?e=1697673600&v=beta&t=BcEhL-xMVI_BBOAXk80oXrMY-DS65t-wOPwCf0WslzY"
+    },
+    {
+      "id": 3,
+      "name": "Wubshet Zeleke",
+      "designation": "Backend Developer",
+      "testimonialText": "Your collaborative approach and effective communication skills have made our teamwork seamless. Your technical expertise and problem-solving abilities are remarkable.",
+      "image": "https://media.licdn.com/dms/image/D4E03AQE-ODi7UP937Q/profile-displayphoto-shrink_800_800/0/1684442167237?e=1697673600&v=beta&t=p7AvnwujcOwAwAVpVRPI2jrcIcE31jeNWSh00WXlPQ0"
+    },
+    {
+      "id": 4,
+      "name": "Haile Melaku",
+      "designation": "Frontend Developer",
+      "testimonialText": "Your attention to design aesthetics and responsive layouts has elevated our web applications. Your contributions have positively impacted user experience and engagement.",
+      "image": "https://media.licdn.com/dms/image/D4E35AQHZnkiE4wTYMw/profile-framedphoto-shrink_800_800/0/1690621115653?e=1692514800&v=beta&t=h4B5FX1cF31nOQxOm42eN4rnKxKcaivbh3Ap69cBPIM"
+    },
+    {
+      "id": 5,
+      "name": "Robel Alemu",
+      "designation": "Project Manager",
+      "testimonialText": "Your strategic insights and data-driven approach have significantly improved our marketing campaigns. Your dedication to achieving results is inspiring.",
+      "image": "https://media.licdn.com/dms/image/D4D35AQFHbciCzyXG_Q/profile-framedphoto-shrink_800_800/0/1659180105636?e=1692514800&v=beta&t=SM8gUT4T4EXMTcHEqh_1nJja1773W8GlS9PLjhNjTd8"
+    }
+  ],
+  "links": [
+    "src/assets/tool-1.png",
+    "src/assets/tool-7.png",
+    "src/assets/tool-8.png",
+    "src/assets/tool-4.png",
+    "src/assets/tool-11.png",
+    "src/assets/tool-3.png",
+    "src/assets/tool-5.svg",
+    "src/assets/tool-2.png",
+    "src/assets/tool-6.png",
+    "src/assets/tool-9.png"
+  ]
+}
